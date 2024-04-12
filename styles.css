@@ -51,7 +51,7 @@ input[type="submit"] {
 
 .border-box-div {
   width: 200px;
-  height: 100px;
+  height: 70px;
   border: 2px solid #007bff;
   padding: 20px;
   margin: 20px;
@@ -62,22 +62,11 @@ input[type="submit"] {
 
 .content-box-div {
   width: 200px;
-  height: 100px;
+  height: 70px;
   border: 2px solid #007bff;
   padding: 20px;
   margin: 20px;
   background-color: #f8f8f8;
   box-sizing: content-box; /* Box-sizing content-box */
   float: left;
-}
-
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.texto {
-  text-align: center;
-  margin-top: 50px;
 }
