@@ -1,14 +1,14 @@
-// Consola del navegador. ¿Qué es un console.log?
+// 1. Consola del navegador. ¿Qué es un console.log?
 
-// Variables. var, let, const.
+// 2. Variables. var, let, const.
 
-// Tipos de datos
+// 3. Tipos de datos
 
-// Operaciones y operaciones lógicas
+// 4. Operaciones y operaciones lógicas
 
-// Controlando el flujo de ejecución
-// 1. If-else
-// 2. Switch
-// 3. Operadores ternarios
-// 4. Arrays y bucles.
-// 5. Funciones.
+// 4. Controlando el flujo de ejecución
+//     a. If-else
+//     b. Switch
+//     c. Operadores ternarios
+//     d. Arrays y bucles.
+//     e. Funciones.
