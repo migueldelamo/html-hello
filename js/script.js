@@ -6,7 +6,7 @@
 
 // 4. Operaciones y operaciones lógicas
 
-// 4. Controlando el flujo de ejecución
+// 5. Controlando el flujo de ejecución
 //     a. If-else
 //     b. Switch
 //     c. Operadores ternarios
